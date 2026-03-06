@@ -21,7 +21,7 @@ JWT Authentication
 
 1. Clone the repository
 
-git clone https://github.com/YOURUSERNAME/task-manager-api.git
+git clone https://github.com/VartikaTiwari17/task-manager-api
 
 2. Install dependencies
 
